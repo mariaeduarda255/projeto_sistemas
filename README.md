@@ -1,5 +1,9 @@
 # Projeto de Sistemas
-Trabalho entregue à professora Rafaela Pessin, da disciplina Projeto de Sistemas da EEEFM Professor Joaquim Barbosa Quitiba. O Objetido desse trabalho é criar um documento formal do projeto de cada grupo.
+Trabalho entregue à professora Rafaela Pessin, da disciplina Projeto de Sistemas da EEEFM Professor Joaquim Barbosa Quitiba. O Objetivo desse trabalho é criar um documento formal do projeto de cada grupo.
+
+## 
+No link a seguir você pode fazer download de um documento de requisitos para um projeto de uma casa inteligente. Este documento pode te ajudar a escrever o seu minimundo e os seus requisitos de usuário.
+* [Exemplo de Documento de Requisitos - JARVIS.pdf](https://github.com/user-attachments/files/17388495/Exemplo.de.Documento.de.Requisitos.-.JARVIS.pdf)
 
 # Integrantes do Grupo
 1) 
