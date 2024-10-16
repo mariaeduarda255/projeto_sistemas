@@ -95,3 +95,4 @@ No link a seguir você pode fazer download de um documento de requisitos para um
 * Link para o Balsamiq: https://balsamiq.com/
 * OBS: Se o grupos criar duas ou mais telas, esta atividade valerá como ponto extra no trabalho.
 
+# DATA DE ENTREGA FINAL: DIA 10/12/2024
