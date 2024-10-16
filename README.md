@@ -55,18 +55,18 @@ No link a seguir você pode fazer download de um documento de requisitos para um
 
 ## Requisitos Não Funcionais
 
-|Identificador|Descrição|Categoria|Escopo|Prioridade|Depende de|
-|-------------|---------|---------|------|----------|----------|
-|    RNF01    |         |         |      |          |          |
-|    RNF02    |         |         |      |          |          |
-|             |         |         |      |          |          |
-|             |         |         |      |          |          |
-|             |         |         |      |          |          |
-|             |         |         |      |          |          |
-|             |         |         |      |          |          |
-|             |         |         |      |          |          |
-|             |         |         |      |          |          |
-|             |         |         |      |          |          |
+|Identificador|Descrição|Categoria|Prioridade|Depende de|
+|-------------|---------|---------|----------|----------|
+|    RNF01    |         |         |          |          |
+|    RNF02    |         |         |          |          |
+|             |         |         |          |          |
+|             |         |         |          |          |
+|             |         |         |          |          |
+|             |         |         |          |          |
+|             |         |         |          |          |
+|             |         |         |          |          |
+|             |         |         |          |          |
+|             |         |         |          |          |
 
 ## Regras de Negócio
 
