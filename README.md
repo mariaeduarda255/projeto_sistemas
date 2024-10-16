@@ -24,19 +24,19 @@ No link a seguir você pode fazer download de um documento de requisitos para um
 |      |            |    |          |
 |      |            |    |          |
 
-# 1 Introdução
+# 1 Introdução (ATÉ DIA 05/11/2024)
 
 * Escreva aqui uma breve introdução ao documento, descrevendo seu propósito e estrutura.
 
-# 2 Descrição do Propósito do Sistema
+# 2 Descrição do Propósito do Sistema (ATÉ DIA 05/11/2024)
 
 * Descreva aqui o propósito geral do sistema.
  
-# 3 Descrição do Minimundo
+# 3 Descrição do Minimundo (ATÉ DIA 05/11/2024)
 
 * Apresente, em texto corrido, uma visão geral do domínio, do problema a ser resolvido e dos processos de negócio apoiados, bem como as principais ideias do cliente sobre o sistema a ser desenvolvido.
 
-# 4 Requisitos de Usuário
+# 4 Requisitos de Usuário (ATÉ DIA 26/11/2024)
 
 ## Requisitos Funcionais
 
@@ -85,11 +85,13 @@ No link a seguir você pode fazer download de um documento de requisitos para um
 
 # Anexos
 
-## 5.1 Project Model Canvas (PMC)
+## 5.1 Project Model Canvas (PMC) (ATÉ DIA 10/12/2024)
 * Insira aqui uma imagem (print) do PMC que você criou.
+* Faça ajustes no seu PMC, antes de entregar, se for necessário.
 * PMC editável: https://docs.google.com/drawings/d/1loSABKcB_7du-WETxJXX5iFsbmxA7IwWMybbpnqhZ0U/edit?usp=sharing
 
-## 5.2 Protótipo do Sistema
+## 5.2 Protótipo do Sistema (ATÉ DIA 10/12/2024)
 * Insira aqui as imagens (prints) dos protótipos que você criou no Balsamiq para o seu sistema.
 * Link para o Balsamiq: https://balsamiq.com/
+* OBS: Se o grupos criar duas ou mais telas, esta atividade valerá como ponto extra no trabalho.
 
