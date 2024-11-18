@@ -6,11 +6,16 @@ No link a seguir você pode fazer download de um documento de requisitos para um
 * [Exemplo de Documento de Requisitos - JARVIS.pdf](https://github.com/user-attachments/files/17388495/Exemplo.de.Documento.de.Requisitos.-.JARVIS.pdf)
 
 # Integrantes do Grupo
-1) 
-2) 
-3) 
-4) 
-5) 
+1) Maria Discher
+2) Meirielle
+3) Fernanda
+4) Brenda
+5) Raquel
+6) Julya
+7) Kamilly
+8) Lara
+9) Ilda
+10) Yasmin
 
 # Documento de Requisitos
 
